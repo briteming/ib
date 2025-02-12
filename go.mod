@@ -1,4 +1,4 @@
-module github.com/imfing/issues-blog
+module github.com/briteming/ib
 
 go 1.19
 
